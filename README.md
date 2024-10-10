@@ -1,3 +1,3 @@
 # Alexandre-Sommerkamp  
-## Junior business analyst | Inventory Management @ Auto1 Group
-Data professional Interested in creating services that improve people’s lives. While I truly enjoy dissecting problems in detail and being thorough in the work, I’m driven to learn, and mentor others. Former operations manager in the food production industry with 5 years of experience leading teams and collaborating closely to deliver quality results.
+## DevOps | AWS | Data Engineering
+Developer interested in creating services that improve people’s lives. While I truly enjoy dissecting problems in detail and being thorough in the work, I’m driven to learn, and transmit my knowledge to others. Former analyst in Auto1 Group, built our team's data warehouse over DBT and currently under training in a DevOps program, centered in AWS, Linux, Docker & Jenkins.
